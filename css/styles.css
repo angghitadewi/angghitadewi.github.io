@@ -249,9 +249,9 @@
     .home__img {
         position: absolute;
         right: 10%;
-        left: 55%;
+        left: 63%;
         bottom: 0;
-        width: 400px;
+        width: 300px;
     }
     /*BUTTONS*/
     
@@ -532,9 +532,9 @@
     
     @media screen and (max-width: 600px) {
         .home__img {
-            width: 357px;
-            left: 15%;
-            top: 50%;
+            width: 200px;
+            left: 35%;
+            bottom: 10%;
         }
     }
     
@@ -587,8 +587,8 @@
             margin-right: var(--mb-4);
         }
         .home__img {
-            width: 457px;
-            bottom: 25%;
+            width: 210px;
+            bottom: 35%;
         }
         .about__container,
         .timeline {

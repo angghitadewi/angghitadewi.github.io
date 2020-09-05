@@ -532,8 +532,8 @@
     
     @media screen and (max-width: 600px) {
         .home__img {
-            width: 150px;
-            left: 35%;
+            width: 170px;
+            left: 40%;
             bottom: 5%;
         }
     }

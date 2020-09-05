@@ -534,7 +534,7 @@
         .home__img {
             width: 357px;
             left: 20%;
-            bottom: 50%;
+            top: 50%;
         }
     }
     
